@@ -1,2 +1,2 @@
 # URIChallenges
-Repositório de armazenamento de código de desafio do URI Online Judge
+URI Online Judge challenge code storage repository
